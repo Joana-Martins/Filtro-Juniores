@@ -1,0 +1,32 @@
+EMPRESAS:
+
+NORTE:
+-Adapti
+-Energy Júnior
+-Gama JR.
+-Projagro
+-Projeta Júnior
+-Zetta JR.
+
+POLO CENTRO 
+-Agrifes
+-Archipolis JR
+-Constat 
+-CT junior
+-CJA
+-ECOS JR
+-EJCAD
+-Ecoceano
+-EJUVV
+-ENPRO 
+-FUCAPE JR
+-IDEAS
+-MILÊNIO JR
+
+POLO SUL:
+-Alimentares
+-Cinética JR.
+-Click JR.
+-Equacione JR.
+-Tectus
+
