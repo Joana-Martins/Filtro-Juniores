@@ -1,16 +1,16 @@
 EMPRESAS:
 
 NORTE:
--Adapti
--Energy Júnior
--Gama JR.
--Projagro
--Projeta Júnior
+-Adapti OK
+-Energy Júnior  OK
+-Gama JR.  OK
+-Projagro OK
+-Projeta Júnior  OK
 -Zetta JR.
 
 POLO CENTRO 
--Agrifes
--Archipolis JR
+-Agrifes OK
+-Archipolis JR  OK
 -Constat 
 -CT junior
 -CJA
