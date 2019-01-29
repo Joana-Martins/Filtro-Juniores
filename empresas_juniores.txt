@@ -11,8 +11,8 @@ NORTE:
 POLO CENTRO 
 -Agrifes OK
 -Archipolis JR  OK
--Constat 
--CT junior
+-Constat  OK
+-CT junior  OK
 -CJA
 -ECOS JR
 -EJCAD
