@@ -94,10 +94,10 @@ li {
     grid-area: limpar;
     background-color: #FFFC9D;
     margin:.6em;
-    margin-left:auto; 
-    margin-right: auto;
+    margin-left:100%; 
+    margin-right: 100%;
     padding: .3em;
-    width: 10em;
+    width: 5em;
     text-align: center;
     border-color:black;
     border-style:solid;
