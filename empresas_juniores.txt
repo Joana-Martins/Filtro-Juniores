@@ -6,22 +6,22 @@ NORTE:
 -Gama JR.  OK
 -Projagro OK
 -Projeta Júnior  OK
--Zetta JR.
+-Zetta JR.  OK
 
 POLO CENTRO 
 -Agrifes OK
 -Archipolis JR  OK
 -Constat  OK
 -CT junior  OK
--CJA
--ECOS JR
--EJCAD
--Ecoceano
--EJUVV
--ENPRO 
--FUCAPE JR
--IDEAS
--MILÊNIO JR
+-CJA  OK
+-ECOS JR OK
+-EJCAD  OK
+-Ecoceano  OK
+-EJUVV  OK 
+-ENPRO  OK
+-FUCAPE JR  OK
+-IDEAS  OK
+-MILÊNIO JR OK
 
 POLO SUL:
 -Alimentares
@@ -30,3 +30,6 @@ POLO SUL:
 -Equacione JR.
 -Tectus
 
+
+
+https://codepen.io/wanni/pen/zsDJb
