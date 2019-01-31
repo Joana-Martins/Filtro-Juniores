@@ -24,11 +24,12 @@ POLO CENTRO
 -MILÊNIO JR OK
 
 POLO SUL:
--Alimentares
--Cinética JR.
--Click JR.
--Equacione JR.
--Tectus
+-Alimentares OK
+-Cinética JR. OK
+-Click JR. OK
+-Equacione JR. OK
+-Floema JR OK
+-Tectus OK
 
 
 
