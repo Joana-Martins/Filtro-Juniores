@@ -13,7 +13,7 @@ body{
     margin-top:0;
     margin-left:0;
     
-    grid-template-columns:.7fr 2fr;
+    grid-template-columns:.7fr 2.5fr;
     grid-template-rows: .5fr .5fr .3fr auto 2fr;
     grid-template-areas:
     "nav nav"
@@ -149,7 +149,7 @@ a{
     position: relative;
     display:inline-block;
     padding: .2em;
-    margin-right: .5em;
+    margin-right: .3em;
     margin-bottom: .1em;
     border-style: solid;
     border-width: 0.15em;
